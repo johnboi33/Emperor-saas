@@ -1,0 +1,6 @@
+{
+  "name": "Emperor CRM - Multi-Tenant Lead Management SaaS",
+  "description": "Production-ready multi-tenant lead management SaaS platform for small and local businesses with sales pipelines, deterministic automation, AI-assisted qualification, human handoffs, and strict tenant isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
